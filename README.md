@@ -1,2 +1,2 @@
 # semstyle
-Code for learning to generate stylized image captions from unaligned text
+Code and data for learning to generate stylized image captions from unaligned text
