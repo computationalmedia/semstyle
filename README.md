@@ -13,3 +13,5 @@ Then from "./code" run:
 The `--cpu` flag will disable the gpu.
 
 Training code is included. Scripts to generated the training data from publicly available sources is coming.
+
+For a limited time (while cpu cycles last): [Live demo, caption your own images](http://43.240.97.39:5000/upload)

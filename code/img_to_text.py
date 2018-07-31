@@ -7,6 +7,8 @@ import sys
 import os
 import cPickle
 import argparse
+import random
+import string
 
 import torchvision.models as models
 import torchvision.transforms as transforms
