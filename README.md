@@ -8,7 +8,7 @@ A pytorch rewrite of SemStyle is included in "./code".
 
 To setup go to "./code/models/" and run "download.sh".
 Then from "./code" run:
-`python img_to_text.py --test_folder <folder with your test images>`
+```python img_to_text.py --test_folder <folder with your test images>```
 
 The `--cpu` flag will disable the gpu.
 
