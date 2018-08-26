@@ -2,7 +2,7 @@
 
 Code and models for learning to generate stylized image captions from unaligned text.
 
-[A list of semstyle results](https://almath123.github.io/semstyle_examples/) on MSCOCO images can be found here. 
+[A full list of semstyle results](https://almath123.github.io/semstyle_examples/) on MSCOCO images can be found here. 
 
 
 A pytorch rewrite of SemStyle is included in "./code".
@@ -20,7 +20,7 @@ Then from "./code" run:
 
 * Training code is included. 
 
-* Scripts to generated the training data from publicly available sources is coming.
+* Scripts to generate the training data from publicly available sources is coming.
 
 ### Online demo 
 
