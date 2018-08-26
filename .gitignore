@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+code/models/img_to_txt_state.tar
+code/models/seq_to_txt_state.tar
