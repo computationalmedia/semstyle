@@ -24,7 +24,7 @@ Then from "./code" run:
 
 ### Online demo 
 
-For a limited time (while cpu cycles last): [Live demo, caption your own images](http://43.240.97.39:5000/upload)
+For a limited time (while cpu cycles last): [Live demo, caption your own images](http://115.146.84.209:5000/upload)
 
 A blog post decribing the SemStyle system is here: 
 http://cm.cecs.anu.edu.au/post/semstyle/
