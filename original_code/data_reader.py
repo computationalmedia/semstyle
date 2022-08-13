@@ -105,7 +105,7 @@ class JointTokenSequences(object):
         seqs_2 = self.tseq_b.get_seqs(s2, e2)
         
         seq = []
-        for i in xrange(max(len(seqs_1, seqs_2))):
+        for i in xrange(max(len(seqs_1), len(seqs_2))):
             if start % 2 == 0:
                 seq.append(seqs_1[i])
                 if i < e2 - s2:
